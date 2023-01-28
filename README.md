@@ -15,7 +15,7 @@
 ![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CairoSergio&show_icons=true&theme=dracula)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CairoSergio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 #### A tualmente tenho criado projectos e aprendido React/React Natine mas eu tenho conhecimento nao seguintes tecnologias e linguagues
 
 <br/>
@@ -32,4 +32,3 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CairoSergio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
