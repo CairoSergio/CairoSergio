@@ -1,8 +1,8 @@
 ### 👋 Hi, I’m Cairo Sergio
-#### 👀 Estudo e faço projectos Web e Mobile atualmente voltado para Front end
+#### 👀 Estudo e criu projectos Web e Mobile voltados a praticas no Front end
 #### 🌱 Estou buscando parceria para trabalhar com Javascript/typescript
-#### 💞️ Aberto para colaboraçoe e parcerias voltadas para front endd
-#### 📫 Mandeme um email cairosergiondava@gmail.com
+#### 💞️ Aberto para colaboraçõe e parcerias voltadas para front end
+#### 📫 Mande-me um email cairosergiondava@gmail.com
 
 
 ### Contacte-me usando os seguintes meios
