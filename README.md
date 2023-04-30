@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Cairo Sergio
+### 👋 ola, Eu sou Cairo Sergio
 #### 👀 Estudo e crio projectos Web e Mobile voltados a praticas no Front end
 #### 🌱 Estou buscando parceria para trabalhar com Javascript/typescript
 #### 💞️ Aberto para colaboraçõe e parcerias voltadas para front end
